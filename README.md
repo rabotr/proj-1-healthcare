@@ -1,15 +1,22 @@
-# Healthcare Project
+# Healthcare Project - Insights from Patient Experience Rating
 
-#### Relationship between patient experience rating 
-
-## Planning
+## 1. Planning
 
 [proposal](Proposal.md)
 
-## Visualizations
+## 2. Visualizations
 
-[images]
-[ppt]
+### 2.1. Maps
+
+![population_per_square_mile_by_county](Results/Map/population_per_square_mile_by_county.png)
+
+![number_of_completed_surveys_by_county](Results/Map/number_of_completed_surveys_by_county.png)
+
+![number_of_surveyed_hospitals_by_county](Results/Map/number_of_surveyed_hospitals_by_county.png)
+
+### 2.3. Trends and Statistics
+
+
 
 ## Conclusions
 
