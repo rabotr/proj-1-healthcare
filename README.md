@@ -2,7 +2,7 @@
 
 ## 1. Planning
 
-[proposal](Proposal.md)
+[Proposal](Proposal.md)
 
 ## 2. Visualizations
 
@@ -14,8 +14,11 @@
 
 ![number_of_surveyed_hospitals_by_county](Results/Map/number_of_surveyed_hospitals_by_county.png)
 
-### 2.3. Trends and Statistics
+### 2.2. Trends and Statistics
 
+#### Number of hospitals vs population
+
+![hospitals_vs_population](Results/Map/hospitals_vs_population.png)
 
 
 ## Conclusions
