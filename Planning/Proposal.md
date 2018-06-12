@@ -45,5 +45,7 @@ Note: Evolvement over time not possible since we only have 2016 data
 ## 6. Data Sets to be Used
 
 - [HCAPHS data](https://data.medicare.gov/Hospital-Compare/Patient-survey-HCAHPS-Hospital/dgck-syfz), queried by hospital name from data.gov
-- [Mortality data](https://wonder.cdc.gov/wonder/help/WONDER-API.html)
+- [Mortality data](https://wonder.cdc.gov/controller/datarequest/D77)
 - [Census data](https://www2.census.gov/programs-surveys/popest/datasets/2010-2016/cities/totals/sub-est2016_all.csv)
+- [FIPS data](https://www.census.gov/geographies/reference-files/2016/demo/popest/2016-fips.html)
+- [Land area data](https://www.census.gov/support/USACdataDownloads.html#LND)
