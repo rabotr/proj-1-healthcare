@@ -1,8 +1,8 @@
 # Healthcare Project - Insights from Patient Experience Rating
 
-## 1. Planning
+## 1. Project Summary
 
-[Proposal](Planning/Proposal.md)
+[Project Summary](Project Summary.docx)
 
 ## 2. Visualizations
 
