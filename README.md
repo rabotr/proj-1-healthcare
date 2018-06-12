@@ -18,7 +18,7 @@
 
 #### Number of hospitals vs population
 
-![hospitals_vs_population](Results/Map/hospitals_vs_population.png)
+![hospitals_vs_population](Results/hospitals_vs_population.png)
 
 
 ## Conclusions
