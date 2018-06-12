@@ -2,7 +2,7 @@
 
 ## 1. Planning
 
-[Proposal](Proposal.md)
+[Proposal](Planning/Proposal.md)
 
 ## 2. Visualizations
 
