@@ -20,6 +20,14 @@
 
 ![hospitals_vs_population](Results/hospitals_vs_population.png)
 
+#### Number of hospitals vs mortality rate
+
+![Hospital_Count_vs_Mortality_Rate](Results/Hospital_Count_vs_Mortality_Rate.png)
+
+![Number_of_Hospitals_vs_Age_Adjusted_Rate](Results/Number_of_Hospitals_vs_Age_Adjusted_Rate.png)
+
+![Number_of_Hospitals_vs_Crude_Rate](Results/Number_of_Hospitals_vs_Crude_Rate.png)
+
 
 ## Conclusions
 
