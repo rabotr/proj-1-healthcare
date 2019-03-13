@@ -1,8 +1,13 @@
 # Healthcare Project - Insights from Patient Experience Rating
 
-## 1. Project Summary
+We used open source healthcare data to explore relationships between patient experience rating, mortality rate, population, and the total number hospitals at county level for year 2016. Check out the presentation slides [here](Presentation/presentation_final.pptx)!
 
-[Presentation slides](Presentation/presentation_final.pptx)
+## 1. Data Sources
+
+- [Hospital Consumer Assessment of Healthcare Providers and Systems (HCAPHS)](https://data.medicare.gov/Hospital-Compare/Patient-survey-HCAHPS-Hospital/dgck-syfz): Over 4,000 hospitals nationwide with patient experience ratings
+- [Centers for Disease Control and Prevention (CDC)](https://wonder.cdc.gov/controller/datarequest/D77): nationwide mortality data by county
+- [FIPS data](https://www.census.gov/geographies/reference-files/2016/demo/popest/2016-fips.html)
+- [Land area data](https://www.census.gov/support/USACdataDownloads.html#LND)
 
 ## 2. Visualizations
 
